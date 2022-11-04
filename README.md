@@ -4,7 +4,10 @@
 <ul>
  <li>Spring Boot</li>
  <li>Spring REST </li>
+  <li>Model Mapper </li>
   <li>Spring Data Jpa</li>
   <li>Lombok</li>
    <li>Validation</li>
+    <li>Spring Security</li>
+ <li>PostgreSQL</li>
 </ul>
